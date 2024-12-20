@@ -60,8 +60,9 @@ Here’s how to set up push.js:
 
 a. Install push.js
 bash
-Copy code
-npm install push.js
+```
+node push.js
+```
 b. Example push.js Implementation
 In your new.html file, you can add a script to trigger notifications when data is updated or pushed:
 
