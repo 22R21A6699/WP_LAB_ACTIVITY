@@ -1,6 +1,6 @@
 # WP_LAB_ACTIVITY
 PORTFOLIO PAGE CONNECTED TO MONGO DB
-Portfolio Page
+# Portfolio Page
 This is a simple portfolio webpage that dynamically fetches data from a backend API and displays it in an organized format. The page includes sections for Summary, Skills, Experience, Education, Languages, and a Profile Image.
 
 Features
@@ -21,7 +21,7 @@ Node.js (version 12.x or higher)
 MongoDB (installed locally or use MongoDB Atlas for cloud storage)
 MongoDB Compass (GUI tool for managing MongoDB databases)
 npm (Node package manager, comes with Node.js)
-push.js for pushing data notifications.
+push.js for pushing data .
 Installation
 1. Clone the Repository
 bash
@@ -31,11 +31,11 @@ cd <project_folder>
 2. Backend Setup
 a. Install Dependencies
 Inside the server directory, install the required npm packages:
-
 bash
-Copy code
-cd server
+```
+cd project
 npm install
+```
 b. Use MongoDB Compass
 Install MongoDB Compass from here if you haven't already.
 Launch MongoDB Compass and connect to your local MongoDB instance using mongodb://localhost:27017.
