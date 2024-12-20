@@ -66,6 +66,11 @@ node push.js
 ```
 5.Image
 replace your own image in the image url in the new.html file
+bash
+```
+<img src="WIN_20241114_11_08_17_Pro.jpg" alt="Profile Image" class="profile-image"/>
+```
+replace WIN_20241114_11_08_17_Pro.jpg with your own image path
 
 Troubleshooting
 If you're not seeing the profile image, ensure that the image URL stored in MongoDB is correct and publicly accessible.
